@@ -517,10 +517,10 @@ html {
 .sub-option > li {
   margin-left: 30px;
 }
-.footer_contact > a > svg {
+.footer_contact .icon {
   margin-left: 40px;
 }
-.footer_contact > a > svg:hover {
+.footer_contact .icon:hover {
   cursor: pointer;
 }
 .icon_path:hover {
