@@ -336,6 +336,14 @@
     margin-left: 820px;
     margin-top: 80px;
   }
+  .body_QA > button:hover {
+    cursor: pointer;
+    color: #5166e5;
+    background-color: #fff;
+    border: 1px solid;
+    height: 90px;
+    width: 230px;
+  }
   .contact {
     width: 1250px;
     height: 820px;
@@ -360,6 +368,7 @@
   .contact_input > input[type="text"] {
     height: 75px;
     width: 500px;
+    font-size: 40px;
   }
   .contact_input > input[type="submit"] {
     height: 50px;
